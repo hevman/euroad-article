@@ -22,20 +22,13 @@ Reach your target audience instantly. Whether selling personal items or promotin
 
 ---
 
-## Visit the Pages
+## Language Versions on GitHub Pages
 
-- English (main GitHub Pages version): [Euroad.eu](https://hevman.github.io/euroad-article/index.html)  
-- Polish: [Euroad.eu PL](https://hevman.github.io/euroad-article/pl/index.html)  
-- German: [Euroad.eu DE](https://hevman.github.io/euroad-article/de/index.html)  
-- French: [Euroad.eu FR](https://hevman.github.io/euroad-article/fr/index.html)  
-- Main website: [Euroad.eu](https://euroad.eu/)
+- English: [EN Version](https://hevman.github.io/euroad-article/index.html)  
+- Polish: [PL Version](https://hevman.github.io/euroad-article/pl/index.html)  
+- German: [DE Version](https://hevman.github.io/euroad-article/de/index.html)  
+- French: [FR Version](https://hevman.github.io/euroad-article/fr/index.html)  
 
----
+## Main Website
 
-## About This Repository
-
-This repository is a **multi-language support site for SEO purposes**. It hosts HTML pages in 4 languages to help search engines index Euroad.eu and strengthen its SEO through dofollow links.
-
-- Language versions: EN, PL, DE, FR  
-- Hreflang tags included for proper search engine recognition  
-- Dofollow links to the main website
+- [Euroad.eu](https://euroad.eu/) – The official website
